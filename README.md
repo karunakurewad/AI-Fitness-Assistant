@@ -85,7 +85,6 @@ It uses the power of Google Gemini (Generative AI) to generate customized recomm
 - 🧹 Always **kill previous ngrok tunnels** before creating a new one.
 
 ## 📸 Demo (Optional)
-> *![Uploading Screenshot 2025-04-08 195555.png…]()
-*
+> *![Uploading Screenshot 2025-04-08 195555.png…]()*
 
 
