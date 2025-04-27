@@ -84,7 +84,5 @@ It uses the power of Google Gemini (Generative AI) to generate customized recomm
 - 🔗 Ensure Ngrok Auth Token is stored securely (for `userdata.get()` to work).
 - 🧹 Always **kill previous ngrok tunnels** before creating a new one.
 
-## 📸 Demo (Optional)
-> *![Uploading Screenshot 2025-04-08 195555.png…]()*
 
 
